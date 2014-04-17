@@ -1,0 +1,8 @@
+#ifndef SAVAGE_SHADER_ADAPTED_SAVAGE_H
+#define SAVAGE_SHADER_ADAPTED_SAVAGE_H
+//20140412
+
+namespace savage {
+}// namespace savage
+
+#endif //SAVAGE_SHADER_ADAPTED_SAVAGE_H

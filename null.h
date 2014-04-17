@@ -1,0 +1,5 @@
+#ifndef SAVAGE_NULL_H
+#define SAVAGE_NULL_H
+//20140327
+#define SAVAGE_NULL 0
+#endif //SAVAGE_NULL_H
